@@ -9,7 +9,6 @@ Pod::Spec.new do |s|
   s.license      = package['license']
 
   s.authors      = package['author']
-  s.homepage     = package['homepage']
   s.platforms    = { :ios => "9.0", :osx => "10.13" }
 
   s.source       = { :git => "https://github.com/varunon9/react-native-toggle-calendar.git", :tag => "v#{s.version}" }
