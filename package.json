@@ -1,6 +1,7 @@
 {
   "name": "react-native-toggle-calendar",
   "version": "1.0.3",
+  "homepage": "https://github.com/varunon9/react-native-toggle-calendar/blob/master/README.md",
   "main": "src/index.js",
   "description": "Horizontal as well as Grid calendar built on top of react-native-calendars",
   "scripts": {
